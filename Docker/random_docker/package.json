@@ -1,0 +1,12 @@
+{
+  "name": "random_docker",
+  "version": "1.0.0",
+  "description": "A random Docker project",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
