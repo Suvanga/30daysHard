@@ -1,0 +1,11 @@
+#inorder to download everything at once in the terminal just do 
+# pip install -r requirements.txt
+
+fastapi
+uvicorn
+sqlalchemy
+PyJWT
+passlib
+bcrypt
+python-jose
+python-multipart
